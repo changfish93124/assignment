@@ -1,6 +1,6 @@
-includde<myname>
-unsing namespace std;
+includde<stdio.h>
+
 
 int main(){
-  cout<<"張晉瑜";
+  printf("What");
 }
