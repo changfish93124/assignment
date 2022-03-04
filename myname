@@ -1,0 +1,6 @@
+includde<myname>
+unsing namespace std;
+
+int main(){
+  cout<<"張晉瑜";
+}
