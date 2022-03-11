@@ -2,5 +2,5 @@ includde<stdio.h>
 
 
 int main(){
-  printf("What");
+  printf("什麼");
 }
